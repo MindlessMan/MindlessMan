@@ -13,7 +13,7 @@
 ### 🗣️ Let's Talk About
 - 📱 **Android Development**: MVVM Architecture, Clean Architecture, Croutines
 - 🌀 **Flutter**: State management (Bloc/Riverpod), Custom Paint animations
-- 🎨 **UI/UX**: Pixel-perfect implementations from Figma designs
+- 🎨 **UI/UX**: Pixel-perfect ui design in applications
 
 ---
 
