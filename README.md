@@ -4,7 +4,7 @@
 ---
 
 ### 👨💻 About Me
-- 🔭 **Android enthusiast** turning coffee into Kotlin code ☕➡️💻  
+- 🔭 **Mobile enthusiast** 💻  
 - 🎯 Passionate about **creating exceptional UI/UX** experiences  
 - ⚡ **Fun fact:** I wrote my first computer program at age 12!  
   
